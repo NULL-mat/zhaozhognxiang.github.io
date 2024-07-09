@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhongxiang Zhao 赵忠祥()"
+  name             : "Zhongxiang Zhao (赵忠祥)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "简短的博客介绍<br>可以提示每个页面的内容\n点击CV(简历)查看个人简历"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
