@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "homepage.png"
   name             : "Zhongxiang Zhao (赵忠祥)"
   pronouns         : # example: "she/her"  
   bio              : "简短的博客介绍<br>可以提示每个页面的内容\n点击CV(简历)查看个人简历"
